@@ -1,7 +1,0 @@
-fix function checkCheckbox() to give a meaningfull message if no 
-boxes are checked.
-
-----------------------------------------------------------------
-Use ROBODOC to generate documentation for formcheck.js functions
-http://rfsber.home.xs4all.nl/Robo/robodoc.html
-----------------------------------------------------------------
